@@ -24,7 +24,7 @@ export default {
     },
     build: {
         outputs: {
-            dir: 'dist/',
+            dir: 'docs/',
             files: {
                 css: '',
                 js: ''
