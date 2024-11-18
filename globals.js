@@ -1,0 +1,1 @@
+// Write your application global function here
